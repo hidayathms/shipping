@@ -5,5 +5,3 @@ env.COMPONENT="shipping"
 env.SONAR_URL="172.31.41.5"
 maven()
 
-
-123567
