@@ -6,6 +6,4 @@ env.SONAR_URL="172.31.41.5"
 maven()
 
 
-XXXXX
-YYYYY
-ZZZZZ
+123567
