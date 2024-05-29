@@ -3,5 +3,6 @@
 
 env.COMPONENT="shipping"
 env.SONAR_URL="172.31.41.5"
+env.NEXUS_URL="172.31.45.41"
 maven()
 
